@@ -1,0 +1,4 @@
+first_cluster,second_cluster,plausible_ranges_overlap,frac_bootstrap_first_younger
+pleiades,praesepe,False,1.0
+praesepe,m67,False,1.0
+pleiades,m67,False,1.0

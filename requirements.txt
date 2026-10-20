@@ -1,0 +1,8 @@
+astroquery
+astropy
+pandas
+pyarrow
+numpy
+matplotlib
+scikit-learn
+hdbscan
